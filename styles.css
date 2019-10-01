@@ -59,13 +59,33 @@ a:hover {
   color: white
 }
 
-header {
+
+
+/* Background pic
+By Donaldytong - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3934239 */
+
+ header {
   text-align: center;
-  background: url('images/melbourne3.jpg') no-repeat top center ;
+  background: url('images/melbourne_large.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
+
+
+/* Background pic By The original uploader was
+Decryption512 at English Wikipedia. -
+Transferred from en.wikipedia to Commons by Bidgee using CommonsHelper., CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=15039307 */
+
+.night {
+  text-align: center;
+  background: url('images/experience.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+
 header {
   line-height: 1.5;
 }
@@ -95,7 +115,7 @@ header .profile-image:hover {
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
-  max-width: 500px;
+  max-width: 650px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
