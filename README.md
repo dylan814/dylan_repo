@@ -1,2 +1,1 @@
-# dylan_repo
-Collection of portfolio projects
+The project uses HTML and CSS to design a profile page. This is the first project. 
